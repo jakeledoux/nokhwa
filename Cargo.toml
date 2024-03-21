@@ -61,8 +61,7 @@ version = "0.10"
 optional = true
 
 [dependencies.image]
-version = "0.24"
-default-features = false
+version = "0.25.0"
 
 [dependencies.v4l]
 version = "0.13"
